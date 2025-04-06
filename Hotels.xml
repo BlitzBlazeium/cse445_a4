@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://blitzblazeium.github.io/cse445_a4/Hotels.xsd">
+	<Hotel Rating="4.5">
+		<Name>The Benson</Name>
+		<Phone>503-228-2000</Phone>
+		<Address NearestAirport="Portland International">
+			<Number>309</Number>
+			<Street>SW Broadway</Street>
+			<City>Portland</City>
+			<State>OR</State>
+			<Zip>97205</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.9">
+		<Name>The Whitehall</Name>
+		<Phone>312-944-6300</Phone>
+		<Address NearestAirport="O'Hare International">
+			<Number>105</Number>
+			<Street>E Delaware Pl</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Hotel Indigo</Name>
+		<Phone>410-625-6200</Phone>
+		<Address NearestAirport="Baltimore-Washington International">
+			<Number>24</Number>
+			<Street>W Franklin St</Street>
+			<City>Baltimore</City>
+			<State>MD</State>
+			<Zip>21201</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>The Godfrey</Name>
+		<Phone>617-804-2000</Phone>
+		<Address NearestAirport="Boston Logan International">
+			<Number>505</Number>
+			<Street>Washington St</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02111</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Atlanta Marriott Marquis</Name>
+		<Phone>404-521-0000</Phone>
+		<Address NearestAirport="Hartsfield-Jackson Atlanta International">
+			<Number>265</Number>
+			<Street>Peachtree Center Ave NE</Street>
+			<City>Atlanta</City>
+			<State>GA</State>
+			<Zip>30303</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Residence Inn</Name>
+		<Phone>602-603-2000</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>132</Number>
+			<Street>S Central Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Radisson RED</Name>
+		<Phone>612-255-0554</Phone>
+		<Address NearestAirport="Minneapolis-Saint Paul International">
+			<Number>609</Number>
+			<Street>S 3rd St</Street>
+			<City>Minneapolis</City>
+			<State>MN</State>
+			<Zip>55415</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Kimpton Hotel Monaco</Name>
+		<Phone>303-296-1717</Phone>
+		<Address NearestAirport="Denver International">
+			<Number>1717</Number>
+			<Street>Champa St</Street>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>80202</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Sentral Alea Miami</Name>
+		<Phone>786-910-3527</Phone>
+		<Address NearestAirport="Miami International">
+			<Number>230</Number>
+			<Street>NE 4th St</Street>
+			<City>Miami</City>
+			<State>FL</State>
+			<Zip>33132</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Venetian</Name>
+		<Phone>702-414-1000</Phone>
+		<Address NearestAirport="Harry Reid International">
+			<Number>3355</Number>
+			<Street>S Las Vegas Blvd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+</Hotels>            
+			
